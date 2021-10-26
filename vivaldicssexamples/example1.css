@@ -1,0 +1,110 @@
+div#tabs-container {
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    height: 24px !important;
+}
+
+.tab-position {
+    height: 20px !important;
+    margin-left: 2px !important;
+    margin-top: 2px !important;
+}
+
+.tab-position .tab {
+    font-family: arial !important;
+    font-size: 13px !important;
+    height: 20px !important;
+}
+
+.tab-position .tab .tab-header {
+    padding: 0px !important;
+    flex: 0 0 20px !important;
+}
+
+.addressfield.focused,
+.searchfield.focused {
+    box-shadow: none !important;
+}
+
+.tab-position .tab .favicon,
+.tab-position .tab .close {
+    margin: 2px !important;
+}
+
+.tab-position .tab.active .tab-header .favicon {
+    background-color: var(--colorFg) !important;
+}
+
+div.toolbar-addressbar {
+    background-color: var(--colorBg) !important;
+}
+
+div.toolbar-addressbar div.toolbar {
+    order: 2;
+    background-color: var(--colorBg) !important;
+}
+
+div.toolbar-addressbar div.addressfield {
+    order: 1;
+}
+
+div.toolbar-addressbar span.extensions-wrapper {
+    order: 3;
+    padding-left: 6px !important;
+    padding-right: 2px !important;
+    background-color: var(--colorBg) !important;
+}
+
+div.toolbar button.rewind,
+div.toolbar button.next,
+div.toolbar button.home,
+div.trash {
+    display: none !important;
+}
+
+.toolbar-addressbar .button-toolbar svg,
+.toolbar-mailbar .button-toolbar svg {
+    width: 20px !important;
+}
+
+.toolbar .button-toolbar {
+    height: 20px !important;
+    min-width: 20px !important;
+    flex: 0 0 20px !important;
+}
+
+.button-tabbar {
+    width: 20px !important;
+    height: 20px !important;
+    min-width: 20px !important;
+    min-height: 20px !important;
+    margin: 2px !important;
+    top: 0px !important;
+}
+
+#tabs-container .newtab {
+    height: 20px !important;
+    margin: 2px !important;
+    position: relative !important;
+    float: right;
+    padding: 0px;
+    left: -22px !important;
+}
+
+button.vivaldi {
+    width: 22px !important;
+    height: 22px !important;
+    z-index: 20;
+}
+
+#browser ::-webkit-scrollbar {
+    width: 8px;
+}
+
+#browser ::-webkit-scrollbar-thumb {
+    background-color: var(--colorAccentBg);
+}
+
+#browser ::-webkit-scrollbar-thumb:hover {
+    background-color: var(--colorHighlightBg);
+}

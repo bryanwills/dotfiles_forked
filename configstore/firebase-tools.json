@@ -1,0 +1,44 @@
+{
+	"analytics-uuid": "b64ba379-0d5b-40ae-9a1f-d2373d2bc3eb",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1616101086252
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "109986686498638068891",
+		"email": "bryanwi09@gmail.com",
+		"email_verified": true,
+		"at_hash": "IO-gWC5twaItqxH32koglg",
+		"iat": 1616101097,
+		"exp": 1616104697
+	},
+	"tokens": {
+		"expires_at": 1616104988173,
+		"refresh_token": "1//04cQP8CKl46HDCgYIARAAGAQSNwF-L9Iryn1NnnTPVogb-jthr0FdNZF9rsXvJ_IlsfR6xxHY3Ur1dfhY1LMzMboIfu9NMAg4WnU",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMBwV9W-vBiNojfcc_FCybDbYqOdgnjz1Yhvbkb3s4TYzvWAb5xBa59vUytbSv0EOu7FHNcb8Q_jS36Ct-Y2oQyHGd87-_NkWotkoeuMAjgIqfLWKs_1ONhaBansmKRzQl77WHtSmTXTyThOaIvXdGi1j5g59A09",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg0NjJhNzFkYTRmNmQ2MTFmYzBmZWNmMGZjNGJhOWMzN2Q2NWU2Y2QiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA5OTg2Njg2NDk4NjM4MDY4ODkxIiwiZW1haWwiOiJicnlhbndpMDlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiI1TEZnLS1EWU9raXJUTWw5d3E2dU1RIiwiaWF0IjoxNjE2MTAxMzg5LCJleHAiOjE2MTYxMDQ5ODl9.J8xPCB8te79Gg_F_aKlCMGJyznnSqnotAIzuCrVXjL0uMscowSI_rPzuMERcyrCWb_EHdMeuTmhnFoGS5-NGp2Hn8wqe9tMdgibbTbgY30fMxSxO9CUPo0BCwCJvxxlMYzaeQdxCTNCeLKiAH6EYq5z0Qn5QTetkyT1g4_J83NsPo_Lv_wpHv6wjAPMP7CM2ut-c_VEo0RWvHbw3KXqc-Iba2KkPx43lypYFkfSoRVmkZrWvGp1CPuAn_jyPBFUtUOOQH1VigakVjTfqfQJ-9IJnEDyM8k-AnO17rdGcrcggSohZOqHahD3HeCB7rlq6NJEhXh1eHkZozROyplnF1Q"
+	},
+	"activeProjects": {
+		"/Users/bryanwills/Documents/scripts/react": "bryan-firebase-hosting-demo"
+	}
+}

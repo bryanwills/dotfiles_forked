@@ -1,0 +1,26 @@
+syntax "Email" "\.em(ai)?l$"
+
+color magenta "^>([^>].*|$)"
+color blue "^> ?>([^>].*|$)"
+color green "^> ?> ?>.*"
+
+
+
+
+## Syntax highlighting for emails.
+
+#syntax email "\.eml$"
+
+# Quoted lines.
+#color green "^>.*"
+#color cyan "^> ?>.*"
+#color yellow "^> ?> ?>.*"
+
+# Email addresses.
+color brightmagenta "<[^@]+@[^@]+>"
+
+# URLs.
+color brightblue "(https?|ftp)://\S+\.\S+[^\s.)]"
+
+# Signatures, even quoted ones.
+color yellow start="^>* ?-- $" end="^>* ?$"

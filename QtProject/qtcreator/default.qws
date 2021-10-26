@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.15.2, 2021-08-11T15:06:18. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAAA2AC8AVQBzAGUAcgBzAC8AYgByAHkAYQBuAHcAaQBsAGwAcwAvAC4AaAB5AHAAZQByAC4AagBzAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAABwAAAAwAAAAAAAAAAAAAACwAAAABAAAANgAvAFUAcwBlAHIAcwAvAGIAcgB5AGEAbgB3AGkAbABsAHMALwAuAGgAeQBwAGUAcgAuAGoAcwAAABIALgBoAHkAcABlAHIALgBqAHMAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAAAoQAAAA1jdXJyZW50ZWRpdG9yAAAANgAvAFUAcwBlAHIAcwAvAGIAcgB5AGEAbgB3AGkAbABsAHMALwAuAGgAeQBwAGUAcgAuAGoAcwAAAC4AUQBtAGwASgBTAEUAZABpAHQAbwByAC4AUQBNAEwASgBTAEUAZABpAHQAbwByAAAAIAAAAAIAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAAAAAAAsAAAAAA==</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>

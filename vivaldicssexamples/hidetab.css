@@ -1,0 +1,33 @@
+/*Vertical tab bar auto-hide*/
+#tabs-container{
+ width: 5px !important;
+}
+#tabs-container:hover{
+ width: 220px !important;
+}
+/*Tab bar is an overlay instead of resizing the page*/
+#main .inner {
+ position: relative;
+}
+#tabs-container {
+ position: absolute !important;
+ z-index: 25;
+ height: 100%;
+}
+#tabs-container.right {
+ right: 0;
+}
+#tabs-container.right .trash{
+ margin-right: 0px;
+}
+#tabs-container.right {
+ border-left-width: 0px;
+}
+.tab-position .tab.active {
+ filter: grayscale(0%) !important;
+ background-color: orange;
+ 
+}
+/* automate addressbar */
+.address-top .toolbar-addressbar {position:absolute; left:0; right:0; top:0; transition: top 0s 0s !important;}
+.address-top #header:not(:hover) ~ #main .toolbar-addressbar:not(:focus-within):not(:hover) {top:-34px; transition: top .1s linear .7s !important;}

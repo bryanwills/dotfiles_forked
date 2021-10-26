@@ -1,0 +1,7 @@
+#panels {overflow:visible;}
+:not(.resizing)#panels-container.overlay .panel-group {transition: width .1s linear !important;}
+#panels-container.overlay {width:0 !important;}
+#panels-container.right.overlay > .fullheight.alternate, #panels-container.right.icons:not(.overlay) {margin-left:-34px;}
+#panels-container.left.overlay > .fullheight.alternate, #panels-container.left.icons:not(.overlay) {margin-right: -34px;}
+#panels-container #switch {z-index:1; max-width: 34px; height: 100%; top:0;}
+#panels-container.icons:not(:hover) #switch {opacity:0; max-width:8px; height:100%; top: 0; transition: .1s .9s, opacity 0s 1s !important;}
