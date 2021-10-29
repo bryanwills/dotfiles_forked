@@ -152,7 +152,11 @@ release 3.56.0 https://dl3.cdn.filezilla-project.org/FileZilla_3.56.0_macosx-x86
 		<Setting name="Tab data" sensitive="1">
 			<Tabs>
 				<Tab connected="1" selected="1">
+<<<<<<< HEAD
 					<Host>172.16.1.56</Host>
+=======
+					<Host>172.16.1.40</Host>
+>>>>>>> f343777 (Updated files.)
 					<Port>22</Port>
 					<Protocol>1</Protocol>
 					<Type>0</Type>
@@ -162,8 +166,13 @@ release 3.56.0 https://dl3.cdn.filezilla-project.org/FileZilla_3.56.0_macosx-x86
 					<EncodingType>Auto</EncodingType>
 					<BypassProxy>0</BypassProxy>
 					<Site></Site>
+<<<<<<< HEAD
 					<RemotePath>1 0 3 mnt 3 nas 4 code</RemotePath>
 					<LocalPath>/Users/bryanwills/code/</LocalPath>
+=======
+					<RemotePath>1 0 3 mnt 3 nas 10 macbookpro</RemotePath>
+					<LocalPath>/Users/bryanwills/Family Pictures 2020/</LocalPath>
+>>>>>>> f343777 (Updated files.)
 				</Tab>
 			</Tabs>
 		</Setting>
