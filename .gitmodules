@@ -1,3 +1,54 @@
 [submodule "dotdrop"]
 	path = dotdrop
 	url = https://github.com/deadc0de6/dotdrop.git
+[submodule "paulirishdots"]
+	path = paulirishdots
+	url = https://github.com/bryanwills/paulirishdots
+[submodule "paulmillrdots"]
+	path = paulmillrdots
+	url = https://github.com/bryanwills/paulmillrdots
+[submodule "rkalisdots"]
+	path = rkalisdots
+	url = https://github.com/bryanwills/rkalisdots
+[submodule "my-settings"]
+	path = my-settings
+	url = https://github.com/bryanwills/my-settings
+[submodule "rootbeersoupdots"]
+	path = rootbeersoupdots
+	url = https://github.com/bryanwills/rootbeersoupdots
+[submodule "ericonrdots"]
+	path = ericonrdots
+	url = https://github.com/bryanwills/ericonrdots
+[submodule "dotfiles-openbox"]
+	path = dotfiles-openbox
+	url = https://github.com/bryanwills/dotfiles-openbox
+[submodule "dotfiles_chezmoi"]
+	path = dotfiles_chezmoi
+	url = https://github.com/bryanwills/dotfiles_chezmoi
+[submodule "simonbuelerdots"]
+	path = simonbuelerdots
+	url = https://github.com/bryanwills/simonbuelerdots
+[submodule "changkundots"]
+	path = changkundots
+	url = https://github.com/bryanwills/changkundots
+[submodule "peterjangootzendots"]
+	path = peterjangootzendots
+	url = https://github.com/bryanwills/peterjangootzendots
+[submodule "geerlingguydots"]
+	path = geerlingguydots
+	url = https://github.com/bryanwills/geerlingguydots
+[submodule "_mathiasbynesdots"]
+	path = _mathiasbynesdots
+	url = https://github.com/bryanwills/_mathiasbynesdots
+[submodule "dotcommon"]
+	path = dotcommon
+	url = https://github.com/bryanwills/dotcommon
+[submodule "_ryanoasisdots"]
+	path = _ryanoasisdots
+	url = https://github.com/bryanwills/_ryanoasisdots
+[submodule "michalsnikdots"]
+	path = michalsnikdots
+	url = https://github.com/bryanwills/michalsnikdots
+[submodule "janmonschkedots"]
+	path = janmonschkedots
+	url = https://github.com/bryanwills/janmonschkedots
